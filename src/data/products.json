@@ -1,0 +1,5 @@
+{ "products": [{"_id":1001,"name":"Toothbrush","category":"Health","cost":100.0,"rating":5.0,"image":"https://images.pexels.com/photos/3588229/pexels-photo-3588229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","availability":"In Stock"},  
+{"_id":1002,"name":"Toothpaste","category":"Health","cost":100.0,"rating":4.0,"image":"https://images.pexels.com/photos/4465125/pexels-photo-4465125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","availability":"In Stock"},
+{"_id":1003,"name":"Football","category":"Sports","cost":100.0,"rating":5.0,"image":"https://images.pexels.com/photos/3074920/pexels-photo-3074920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","availability":"In Stock"},
+{"_id":1004,"name":"Basketball","category":"Sports","cost":100.0,"rating":5.0,"image":"https://images.pexels.com/photos/3558072/pexels-photo-3558072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","availability":"In Stock"}
+]}
